@@ -1,2 +1,2 @@
 #!/bin/bash
-python /usr/bin/python_server_27.py
+python /usr/bin/pyserver27.py
